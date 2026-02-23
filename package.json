@@ -372,7 +372,6 @@
     "lint-staged": "15.5.2",
     "make-dir": "3.1.0",
     "node-pop3": "0.9.1",
-    "node-sass": "9.0.0",
     "nodemon": "3.1.10",
     "npm-run-all": "4.1.5",
     "nps": "5.10.0",
@@ -384,7 +383,7 @@
     "postcss-preset-env": "9.6.0",
     "postcss-reporter": "7.1.0",
     "postcss-scss": "4.0.9",
-"prettier": "2.8.8",
+    "prettier": "2.8.8",
     "pump": "3.0.3",
     "purgecss-from-pug": "6.0.0",
     "rc": "1.2.8",
@@ -402,7 +401,8 @@
     "engines": {
       "node": "24.x",
       "pnpm": ">=10"
-    },
+    }
+  },
   "homepage": "https://github.com/forwardemail/forwardemail.net",
   "imports": {
     "#config/*": "./config/*.js",
@@ -462,7 +462,7 @@
     "better-sqlite3": "better-sqlite3-multiple-ciphers",
     "undici": "7.12.0"
   },
-  "packageManager": "pnpm@9.15.9",
+  "packageManager": "pnpm@10.0.0",
   "pnpm": {
     "overrides": {
       "undici": "7.12.0"
