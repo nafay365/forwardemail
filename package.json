@@ -402,6 +402,7 @@
   },
   "engines": {
     "node": "24.x"
+    "pnpm": ">=9"
   },
   "homepage": "https://github.com/forwardemail/forwardemail.net",
   "imports": {
